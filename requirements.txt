@@ -1,7 +1,4 @@
-name: smoothie_app_env
-channels:
-  - snowflake
-dependencies:
-  - python=3.11
-  - streamlit
-  - snowflake-snowpark-python
+#requirements.txt
+snowflake-snowpark-python
+streamlit
+
